@@ -14,9 +14,9 @@ Essa aplicação simples te permite pesquisar por seus jogadores de e-sports fav
 
 **Tecnologias utilizadas:**
 
-* **HTML:** Estrutura básica da página.
-* **CSS:** Estilização da página, deixando ela com uma cara bem legal.
-* **JavaScript:** A mágica por trás da pesquisa, mostrando os resultados na tela.
+* **HTML**
+* **CSS**
+* **JavaScript**
 
 **Imersão Dev Alura + Gemini - Projeto desenvolvido durante a imersão da Alura em parceria com o Google Gemini. Aprendizado prático de programação, HTML, CSS e JavaScript:**
 https://cursos.alura.com.br/imersao
