@@ -1,4 +1,4 @@
-# imersao-Dev-Alura
+### **E-Sports: Sua Busca por Jogadores Favoritos - Imersão Dev com Google Gemini**
 ![image](https://github.com/user-attachments/assets/5a04f41a-7edf-42a4-be7f-4f8589815dc0)
 
 
